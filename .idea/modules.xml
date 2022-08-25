@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/First-Week-Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/First-Week-Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstWeekSample.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstWeekSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FirstWeekSample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FirstWeekSample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FirstWeekSample.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FirstWeekSample.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FirstWeekSample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FirstWeekSample.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FirstWeekSample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FirstWeekSample.app.unitTest.iml" />
     </modules>
   </component>
 </project>

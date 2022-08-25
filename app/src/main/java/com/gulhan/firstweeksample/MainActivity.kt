@@ -9,7 +9,7 @@ import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
 
-
+// this is working
     private lateinit var button: Button
     private lateinit var myText: TextView
     private lateinit var imageView: ImageView
